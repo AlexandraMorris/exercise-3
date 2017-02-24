@@ -1,9 +1,5 @@
 burger and chips
 fish and chips
 pizza
-<<<<<<< Updated upstream
-veggie wraps
-=======
-Chicken wraps
->>>>>>> Stashed changes
+veggie and chicken wraps
 pasta
