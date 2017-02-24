@@ -1,9 +1,6 @@
 burger and chips
 fish and chips
-<<<<<<< Updated upstream
-Tex-Mex pizza
-=======
-veggie supreme pizza
->>>>>>> Stashed changes
+
+margherita pizza
 veggie and chicken wraps
 pasta
